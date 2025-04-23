@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tribute to Bhagat Singh</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main id="main">
+    <header>
+      <h1 id="title">Shaheed Bhagat Singh</h1>
+      <p class="subtitle">A Symbol of Bravery and Patriotism</p>
+    </header>
+
+    <figure id="img-div">
+      <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bhagat_Singh_1929.jpg" alt="Bhagat Singh photo">
+      <figcaption id="img-caption">Young revolutionary Bhagat Singh, around 1929.</figcaption>
+    </figure>
+
+    <section id="tribute-info">
+      <h2>About Bhagat Singh</h2>
+      <p>Bhagat Singh (1907–1931) was one of the most influential revolutionaries of the Indian independence movement. Born in Punjab, he dedicated his life to the cause of freeing India from British colonial rule. He believed in equality, justice, and socialism, and inspired millions with his courage and sacrifice.</p>
+
+      <ul>
+        <li><strong>1907</strong> - Born in Banga, Punjab Province, British India</li>
+        <li><strong>1928</strong> - Avenged the death of Lala Lajpat Rai by killing British officer Saunders</li>
+        <li><strong>1929</strong> - Threw bombs in the Central Legislative Assembly to protest British laws (without intent to harm)</li>
+        <li><strong>1931</strong> - Executed at age 23, along with Rajguru and Sukhdev</li>
+      </ul>
+
+      <p>Bhagat Singh became a symbol of fearless patriotism and left a legacy that continues to inspire generations of Indians.</p>
+    </section>
+
+    <footer>
+      <p>Learn more on <a id="C:\Users\pc\Downloads" href="C:\Users\pc\Downloads" target="_blank">Wikipedia</a>.</p>
+    </footer>
+  </main>
+</body>
+</html>
